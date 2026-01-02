@@ -11,110 +11,110 @@
 
 ## Lesson 1: Basic theoretical probability
 
-* [Intro to theoretical probability]()
+* [Intro to theoretical probability](intro.ipynb)
 
-* [Simple probability: yellow marble]()
+* [Simple probability: yellow marble](yellow_marble.ipynb)
 
-* [Simple probability: non-blue marble]()
+* [Simple probability: non-blue marble](non-blue_marble.ipynb)
 
-* [Intuitive sense of probabilities]()
+* [Intuitive sense of probabilities](intuitive.ipynb)
 
-* [The Monty Hall problem]()
+* [The Monty Hall problem](the_monty.ipynb)
 
 ## Lesson 2: Probability using sample spaces
 
-* [Example: All the ways you can flip a coin]()
+* [Example: All the ways you can flip a coin](flip_a_coin.ipynb)
 
-* [Die rolling probability]()
+* [Die rolling probability](die_rolling.ipynb)
 
-* [Subsets of sample spaces]()
+* [Subsets of sample spaces](sample_spaces.ipynb)
 
 
 ## Lesson 3: Basic set operations
 
-* [Intersection and union of sets]()
+* [Intersection and union of sets](intersection.ipynb)
 
-* [Relative complement or difference between sets]()
+* [Relative complement or difference between sets](relative_complement.ipynb)
 
-* [Universal set and absolute complement]()
+* [Universal set and absolute complement](universal_set.ipynb)
 
-* [Subset, strict subset, and superset]()
+* [Subset, strict subset, and superset](subset_strict.ipynb)
 
-* [Bringing the set operations together]()
+* [Bringing the set operations together](bringing.ipynb)
 
 
 ## Lesson 4: Experimental probability
 
-* [Experimental probability]()
+* [Experimental probability](experimental.ipynb)
 
-* [Theoretical and experimental probabilities]()
+* [Theoretical and experimental probabilities](theoretical.ipynb)
 
-* [Making predictions with probability]()
+* [Making predictions with probability](making_predictions.ipynb)
 
 
 ## Lesson 5: Randomness, probability, and simulation
 
-* [Experimental versus theoretical probability simulation]()
+* [Experimental versus theoretical probability simulation](experimental.ipynb)
 
-* [Random number list to run experiment]()
+* [Random number list to run experiment](list_to_run.ipynb)
 
-* [Random numbers for experimental probability]()
+* [Random numbers for experimental probability](experimental_probability.ipynb)
 
-* [Statistical significance of experiment]()
+* [Statistical significance of experiment](significance_of_experiment.ipynb)
 
 
 ## Lesson 6: Addition rule
 
-* [Probability with Venn diagrams]()
+* [Probability with Venn diagrams](probability.ipynb)
 
-* [Addition rule for probability]()
+* [Addition rule for probability](addition_rule.ipynb)
 
 
 ## Lesson 7: Multiplication rule for independent events
 
-* [Sample spaces for compound events]()
+* [Sample spaces for compound events](sample_spaces.ipynb)
 
-* [Compound probability of independent events]()
+* [Compound probability of independent events](compound_probability.ipynb)
 
-* [Probability of a compound event]()
+* [Probability of a compound event](compound_event.ipynb)
 
-* [“At least one” probability with coin flipping]()
+* [“At least one” probability with coin flipping](at_least_one.ipynb)
 
-* [Free-throw probability]()
+* [Free-throw probability](free-throw.ipynb)
 
-* [Three-pointer vs free-throw probability]()
+* [Three-pointer vs free-throw probability](three-pointer.ipynb)
 
-* [Probability without equally likely events]()
+* [Probability without equally likely events](equally_likely_events.ipynb)
 
-* [Independent events example: test taking]()
+* [Independent events example: test taking](test_taking.ipynb)
 
-* [Die rolling probability with independent events]()
+* [Die rolling probability with independent events](independent_events.ipynb)
 
 
 ## Lesson 8: Multiplication rule for dependent events
 
-* [Dependent probability introduction]()
+* [Dependent probability introduction](introduction.ipynb)
 
-* [Dependent probability: coins]()
+* [Dependent probability: coins](coins.ipynb)
 
-* [Dependent probability example]()
+* [Dependent probability example](example.ipynb)
 
-* [Independent & dependent probability]()
+* [Independent & dependent probability](independent_and_dependent_probability.ipynb)
 
-* [Dependent probability]()
+* [Dependent probability](dependent_probability.ipynb)
 
 
 ## Lesson 9: Conditional probability and independence
 
-* [Calculating conditional probability]()
+* [Calculating conditional probability](calculating.ipynb)
 
-* [Conditional probability explained visually]()
+* [Conditional probability explained visually](explained_visually.ipynb)
 
-* [Conditional probability tree diagram example]()
+* [Conditional probability tree diagram example](diagram_example)
 
-* [Conditional probability and independence]()
+* [Conditional probability and independence](conditional_probability_and_independence.ipynb)
 
-* [Analyzing event probability for independence]()
+* [Analyzing event probability for independence](analyzing_event.ipynb)
 
 ----
 ----
